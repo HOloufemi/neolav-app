@@ -363,7 +363,7 @@ export default function App() {
       {/* FOOTER */}
       <footer style={{ background: NAVY, color: "rgba(255,255,255,0.5)", textAlign: "center", padding: "32px 24px", fontSize: 13 }}>
         <div style={{ marginBottom: 8 }}><strong style={{ color: WHITE }}>NÉOLAV</strong> — Votre linge, notre signature de perfection.</div>
-        <div>📍 Cotonou, Bénin &nbsp;·&nbsp; 📱 {MOMO[0]} &nbsp;·&nbsp; Livraison gratuite partout à Cotonou</div>
+        <div>📍 Cotonou, Bénin &nbsp;·&nbsp; 📱 01 96 28 18 86 / 01 61 75 30 77 &nbsp;·&nbsp; Livraison gratuite partout à Cotonou</div>
         <div style={{ marginTop: 12, fontSize: 11, opacity: .5 }}>© 2025 NÉOLAV. Tous droits réservés.</div>
       </footer>
 
